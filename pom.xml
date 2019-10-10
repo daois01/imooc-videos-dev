@@ -10,6 +10,8 @@
     <modules>
         <module>imooc-videos-dev-common</module>
         <module>imooc-videos-dev-pojo</module>
+        <module>imooc-videos-dev-mapper</module>
+        <module>imooc-videos-dev-service</module>
     </modules>
     <packaging>pom</packaging>
 
