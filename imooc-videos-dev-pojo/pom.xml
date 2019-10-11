@@ -11,12 +11,4 @@
 
     <artifactId>imooc-videos-dev-pojo</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.imooc</groupId>
-            <artifactId>imooc-videos-dev-common</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
-
 </project>
